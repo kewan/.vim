@@ -36,3 +36,6 @@ set softtabstop=4
 set smarttab
 "" always use spaces instead of tabs
 set expandtab
+
+"" nerdtree shortcut
+map <C-b> :NERDTreeToggle<CR>
