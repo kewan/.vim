@@ -6,6 +6,12 @@ filetype plugin indent on
 syntax on
 set encoding=utf-8
 
+"" color scheme
+set t_Co=256
+syntax enable
+set background=dark
+colorscheme jellybeans 
+
 " enable spellcheck but turn off by defualt. :set spell! to toggle
 set spell spelllang=en_gb
 setlocal nospell
@@ -30,4 +36,3 @@ set softtabstop=4
 set smarttab
 "" always use spaces instead of tabs
 set expandtab
-
