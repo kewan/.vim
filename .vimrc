@@ -8,7 +8,6 @@ set encoding=utf-8
 
 "" color scheme
 set t_Co=256
-syntax enable
 set background=dark
 colorscheme jellybeans 
 
@@ -36,8 +35,6 @@ set shiftwidth=4
 "" a combination of spaces and tabs are used to simulate tab stops at a width
 "" other than the (hard)tabstop
 set softtabstop=4
-"" Make tab insert indents instrad of tabs
-set smarttab
 "" always use spaces instead of tabs
 set expandtab
 
