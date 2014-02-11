@@ -12,6 +12,10 @@ syntax enable
 set background=dark
 colorscheme jellybeans 
 
+"" line numbers
+set number
+set relativenumber
+
 " enable spellcheck but turn off by defualt. :set spell! to toggle
 set spell spelllang=en_gb
 setlocal nospell
