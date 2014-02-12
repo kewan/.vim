@@ -40,3 +40,6 @@ set expandtab
 
 "" nerdtree shortcut
 map <C-b> :NERDTreeToggle<CR>
+
+" disable markdown folding
+let g:vim_markdown_folding_disabled=1

@@ -137,7 +137,7 @@ Spelling
 Substitution
 ============
 
-``%s /foo/bar/g  
+`%s` /foo/bar/g  
 
 Macros
 =====
@@ -160,4 +160,4 @@ Surround Plugin
 Reference
 ---------
 
-`http`//www.danielmiessler.com/study/vim
+http://www.danielmiessler.com/study/vim
